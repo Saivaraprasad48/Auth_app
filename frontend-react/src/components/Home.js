@@ -14,7 +14,7 @@ const Home = () => {
   return (
     <div>
       <div className="d-flex flex-row justify-content-center align-items-center">
-        <h1 className="text-center p-2"> Welcome</h1>
+        <h1 className="text-center p-2"> Welcome to Dashboard </h1>
         <div className="text-center">
           <button
             className="btn btn-danger"
